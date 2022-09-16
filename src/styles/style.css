@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: gainsboro;
+    max-width: 1080px;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+}
+
+film-list {
+    display: block;
+    margin-top: 18px;
+    width: 100%;
+    padding: 16px;
+}
